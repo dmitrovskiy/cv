@@ -5,14 +5,14 @@
 [Tep](http://tep.io/)
 High-load enterprise project development
 
-*Aug. 2013 – Dec. 2013*  
-**Web developer**  
+*Aug. 2013 – Dec. 2013*
+**Web developer**
 [ArtMyWeb](http://artmyweb.com/)
 Front-end, developer. Developing design and themes for Wordpress, Opencart
 
-*June 2013 - Sept. 2013*  
-**Lector**  
-[IT academy Step](http://itstep.org/), Mykolaiv, Ukraine  
+*June 2013 - Sept. 2013*
+**Lector**
+[IT academy Step](http://itstep.org/), Mykolaiv, Ukraine
 C++, C# Lector
 
 *June 2012 - Aug, 2012*

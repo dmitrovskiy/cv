@@ -8,7 +8,7 @@ High-load enterprise project development
 *Aug. 2013 – Dec. 2013*  
 **Web developer**  
 [ArtMyWeb](http://artmyweb.com/)  
-Front-end, developer. Developing design and themes for Wordpress, Opencart  
+Front-end, developer. Themes and plugins development for Wordpress, Opencart  
 *June 2013 - Sept. 2013*
 
 **Lector**  

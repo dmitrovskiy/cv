@@ -5,18 +5,18 @@
 [Tep](http://tep.io/)  
 Enterprise project development, DevOps, using PHP 5/7, Node, Mongo, Redis, RabbitMQ, Silex, Strongloop, microservice architecture, docker, CI services.
 
-*Jan. 2015 - Jul. 2015*
-**Web developer**
-pv&art
-WordPress theme, plugins development.
-Had experience with angular.js, bower, grunt
+*Jan. 2015 - Jul. 2015*  
+**Web developer**  
+pv&art  
+WordPress theme, plugins development.  
+Had experience with angular.js, bower, grunt  
 
-*Aug. 2014 – Dec. 2014*
+*Aug. 2014 – Dec. 2014*  
 **Web developer**  
 [ArtMyWeb](http://artmyweb.com/)  
 Front-end, developer. Themes and plugins development for Wordpress, Opencart  
 
-*June 2014 - Sept. 2014*
+*June 2014 - Sept. 2014*  
 **Lector**  
 [IT academy Step](http://itstep.org/), Mykolaiv, Ukraine  
 C++, C# Lector  

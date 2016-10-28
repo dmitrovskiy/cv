@@ -3,7 +3,7 @@
 *Jan. 2014 - Current*  
 **DevOps, Back end engineer**  
 [Tep](http://tep.io/)  
-High-load enterprise project development, DevOps, using PHP 5/7, Node, Mongo, Redis, RabbitMQ, Silex, Strongloop, microservice architecture, docker, CI services.
+Enterprise project development, DevOps, using PHP 5/7, Node, Mongo, Redis, RabbitMQ, Silex, Strongloop, microservice architecture, docker, CI services.
 
 *Jan. 2015 - Jul. 2015*
 **Web developer**

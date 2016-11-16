@@ -38,12 +38,11 @@ Major: Software engineer
 
 ## Skills
 * *OS:* Linux, Windows
-* *Programming:* PHP5/7, JS, C#, C++, HTML, HTML5, CSS3, JSON, XML, Design Patterts, TDD, BDD, OOP, SOLID
-* *Frameworks:* Symfony, Silex, Node, Express, Strongloop, Angular, Ionic, .NET, ASP.NET, ADO.NET
+* *Programming:* PHP5/7, Node JS, C#, C++, HTML, HTML5, CSS3, JSON, XML, Design Patterts, TDD, BDD, OOP, SOLID
+* *Frameworks:* Symfony, Silex, Express, Feathers, Strongloop, Angular, Ionic, .NET, ASP.NET, ADO.NET
 * *Databases:* Mongo, Redis, MySQL, MSSQL
-* *DevOps:* Docker, AWS, Microservices, Jenkins, Nginx, Apache2, Lighttpd
-* *Libraries:* jQuery.js, Lodash.js, Underscode.js, Bluebird.js, Async.js
-* *UI:* jQueryUI, Bootstrap
+* *DevOps:* Docker, AWS, Microservices, Jenkins, Zabbix, Nginx, Apache2, Lighttpd
+* *Libraries:* Lodash.js, Bluebird.js, Async.js, Mocha, Ava, Babel, Sinon, Chai
 * *Dev tools:* Vim, Atom, IntelliJ, WebStorm, PhpStorm, Sublime Text 2
 * *VCS*: Git, SVN
 * *Modeling:* UML

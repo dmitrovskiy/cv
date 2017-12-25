@@ -1,6 +1,16 @@
 ## Experience
 
-*Jan. 2014 - Current*  
+*May 1 2017 - Current*  
+**DevOps, Back-end engineer**  
+[Plugsurfing](https://plugsurfing.com)  
+DevOps, back-end development with PHP, MySQL.
+
+*Mar. 1 2017 - Current*  
+**DevOps, Back-end engineer**  
+[Dimovo](http://dimovo.be/)   
+Doing DevOps, back-end development using Node. Also doing project management.   
+
+*Jan. 2014 - Mar. 1 2017*  
 **DevOps, Back end engineer**  
 [Tep](http://tep.io/)  
 Enterprise project development, DevOps, using PHP 5/7, Node, Mongo, Redis, RabbitMQ, Silex, Strongloop, microservice architecture, docker, CI services.
